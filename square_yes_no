@@ -1,5 +1,5 @@
 /* Given a input number n, find whether square of this number end with n  or not 
-if end print "yes" else "no"  /*
+if end print "yes" else "no"  */
 
 
 #include <iostream>
